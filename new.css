@@ -1,0 +1,158 @@
+.navbar
+{
+    background-color: black;
+    color:white;
+}
+.navbar-brand
+{
+  color:white;
+}
+.navbar-brand:hover{
+  color: white;
+}
+.navbar-item a
+{
+  color:white;
+}
+.navbar-item a:hover
+{
+  color:white;
+
+}
+ .topbar
+{
+ background-color:black;
+ height:850px;
+ width:100%;
+}
+/* .header img
+{
+  margin-top: 30px;
+height: 650px;
+width: 1100px;
+border-radius: 15px;
+} */
+.site
+{
+  background-image: url("https://a0.muscache.com/im/pictures/fe7217ff-0b24-438d-880d-b94722c75bf5.jpg");
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  width:1100px;
+  height:650px;
+  /* margin: 0 auto; */
+  /* padding: 50px 50px; */
+  border-radius:15px;
+  margin-top: 30px;
+  margin-bottom: 80px;
+}
+.title
+{
+  color:white;
+  font-size: 40px;
+  font-weight: bold;
+  display: flex;
+  justify-content:center;
+  /* align-items:center;
+  align-content:flex-end; */
+  padding-top: 450px;
+  /* margin-bottom:100px;
+  margin-top:200px; */
+}
+.site-btn
+{
+margin-left: 45%;
+margin-bottom: 50%;
+margin-top: 15px;
+/* background-color: white; */
+font-size: 30px;
+
+}
+.card img
+{
+  height:200px;
+  border-top-left-radius:15px;
+  border-top-right-radius: 15px;
+}
+
+.card-body
+{
+    height:200px;
+    background-color:#BC1A6E;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-style:none;
+
+  }
+
+.picture
+{
+  background-image: url("https://www.phillymag.com/wp-content/uploads/sites/3/2021/11/airbnb-camp-caitlin-900x600-1.jpg");
+  width:550px;
+  height:500px;
+  margin-right: 20px;
+  border-radius: 15px;
+}
+.letter
+{
+  color:white;
+  padding-top: 30px;
+  padding-left:40px;
+
+}
+.letter2
+{
+  color:white;
+  padding-left:40px;
+  padding-bottom: 5px;
+}
+.pic-btn
+{
+  margin-left: 40px;
+  margin-top: 20px;
+
+}
+.picture2
+{
+  background-image: url("https://a0.muscache.com/im/pictures/49a25918-9b84-4d43-9d48-b45f926755bd.jpg?im_q=highq&im_w=720");
+  width:550px;
+  height:500px;
+    border-radius: 15px;
+}
+.icon
+{
+  background-image:url("https://a0.muscache.com/im/pictures/fe7217ff-0b24-438d-880d-b94722c75bf5.jpg");
+  width:1300px;
+  height:650px;
+  background-attachment: scroll;
+  background-repeat:no-repeat;
+  background-size: cover;
+  position: relative;
+  margin-top:100px;
+  /* margin-left: 100px;
+  margin-right: 100px; */
+}
+.icon h1
+{
+  font-size:70px;
+  color:white;
+  padding-left:90px;
+  line-height: 0.6;
+  padding-top: 30px;
+}
+.btn-icon{
+  font-size: 40px;
+  margin-left:100px;
+  margin-top: 250px;
+}
+.card-footer ul li{
+  display: inline;
+  margin-left:15px;
+  text:black;
+}
+.footer ul li
+{
+  display: inline;
+
+}
